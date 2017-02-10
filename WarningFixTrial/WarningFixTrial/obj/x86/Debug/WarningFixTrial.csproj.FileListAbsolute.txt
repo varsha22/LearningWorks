@@ -1,0 +1,4 @@
+D:\D drive\TrialWork\WarningFixTrial\WarningFixTrial\bin\Debug\WarningFixTrial.exe
+D:\D drive\TrialWork\WarningFixTrial\WarningFixTrial\bin\Debug\WarningFixTrial.pdb
+D:\D drive\TrialWork\WarningFixTrial\WarningFixTrial\obj\x86\Debug\WarningFixTrial.exe
+D:\D drive\TrialWork\WarningFixTrial\WarningFixTrial\obj\x86\Debug\WarningFixTrial.pdb
